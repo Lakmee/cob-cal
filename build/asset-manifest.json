@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cob-cal/static/css/main.0555f5de.chunk.css",
+    "main.js": "/cob-cal/static/js/main.6569b543.chunk.js",
+    "main.js.map": "/cob-cal/static/js/main.6569b543.chunk.js.map",
+    "runtime-main.js": "/cob-cal/static/js/runtime-main.de400606.js",
+    "runtime-main.js.map": "/cob-cal/static/js/runtime-main.de400606.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/cob-cal/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7e558ce8.chunk.js": "/cob-cal/static/js/2.7e558ce8.chunk.js",
+    "static/js/2.7e558ce8.chunk.js.map": "/cob-cal/static/js/2.7e558ce8.chunk.js.map",
+    "index.html": "/cob-cal/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/cob-cal/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.0555f5de.chunk.css.map": "/cob-cal/static/css/main.0555f5de.chunk.css.map",
+    "static/js/2.7e558ce8.chunk.js.LICENSE.txt": "/cob-cal/static/js/2.7e558ce8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de400606.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7e558ce8.chunk.js",
+    "static/css/main.0555f5de.chunk.css",
+    "static/js/main.6569b543.chunk.js"
+  ]
+}
