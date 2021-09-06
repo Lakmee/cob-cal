@@ -2,11 +2,13 @@
   "name": "msal-react-quickstart",
   "version": "0.1.0",
   "description": "A React single-page application calling Microsoft Graph API using MSAL.js (w/ AAD v2 endpoint)",
+  "homepage": "https://Lakmee.github.io/cob-cal",
   "private": true,
   "dependencies": {
     "@azure/msal-browser": "^2.15.0",
     "@azure/msal-react": "^1.0.1",
     "bootstrap": "^4.5.3",
+    "gh-pages": "^3.2.3",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1",
     "react": "^17.0.1",
